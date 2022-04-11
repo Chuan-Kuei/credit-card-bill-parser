@@ -4,4 +4,4 @@ Credit card bill parser is a Java tool for parser credit card bill.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/Chuan-Kuei/credit-card-bill-parser/blob/main/LICENSE)
